@@ -1,0 +1,1 @@
+Learned about how to create a basic site with pictures, text, lists and properly link them all together in the index.html file to make it all work interactively.
